@@ -7,4 +7,6 @@ mccabe
 pep8-naming
 pycodestyle
 pyflakes
-mypy
+flake8-annotations
+pytest
+pytest-cov
