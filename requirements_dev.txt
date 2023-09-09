@@ -10,3 +10,4 @@ pyflakes
 flake8-annotations
 pytest
 pytest-cov
+mypy
